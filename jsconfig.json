@@ -1,0 +1,11 @@
+{
+  "complierOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@screens": ["screens"],
+      "@utils": ["utils"]
+
+    }
+  },
+  "exclude": ["node_modules", "babel.config.js", "dist"]
+}
